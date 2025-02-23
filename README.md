@@ -10,22 +10,5 @@ Metadata Storage: Saves the file path in metadata for easy retrieval.
 Semantic Search: Finds the most relevant documents using vector similarity search.
 
 Pre-trained Embedding Model: Uses bkai-foundation-models/vietnamese-bi-encoder for high-quality Vietnamese text embeddings.
-### File Structure
-.
-BoPhapDienDienTu/
-|-- vbpl/                 # Contains full_ItemID.html files
-|-- chroma_db/            # Vector database storage
-|-- ingest_data.py        # Script to ingest documents into ChromaDB
-|-- search.py             # Script to perform semantic search
-|-- requirements.txt      
-|-- README.md          
-.  
-├── BoPhapDienDienTu/  
-│   ├── vbpl/  
-├── chroma_db/  
-├── ingest_data.py  
-├── search.py  
-├── requirements.txt  
-├── README.md  
 
 
