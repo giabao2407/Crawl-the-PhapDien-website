@@ -1,5 +1,5 @@
 # Crawl-the-PhapDien-website
-This project builds a vector database using ChromaDB and performs semantic search on Vietnamese legal documents. The dataset consists of full_ItemID.html files, which are processed and stored in ChromaDB using the bkai-foundation-models/vietnamese-bi-encoder embedding model.
+Builds a vector database using ChromaDB and performs semantic search on Vietnamese legal documents. The dataset consists of full_ItemID.html files, which are processed and stored in ChromaDB using embedding model.
 
 Features
 
