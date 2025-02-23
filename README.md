@@ -18,5 +18,14 @@ BoPhapDienDienTu/
 |-- ingest_data.py        # Script to ingest documents into ChromaDB
 |-- search.py             # Script to perform semantic search
 |-- requirements.txt      
-|-- README.md             
+|-- README.md          
+.  
+├── BoPhapDienDienTu/  
+│   ├── vbpl/  
+├── chroma_db/  
+├── ingest_data.py  
+├── search.py  
+├── requirements.txt  
+├── README.md  
+
 
